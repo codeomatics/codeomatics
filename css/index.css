@@ -16,6 +16,33 @@
     font-size: 30px;
     font-weight: 700;
 }
+.imgDiv
+{
+    /* max-height: 80%; */
+}
+.ibtisam
+{
+    max-height: 100%;
+}
+.ammar
+{
+    max-height: 100%;
+}
+.ahsan
+{
+    max-height: 100%;
+
+}
+.saim
+{
+    max-height: 100%;
+    max-width: 100%;
+}
+.wahaj
+{
+    max-height: 100%;
+    max-width: 100%;
+}
 .teamMain .teamCard{
     border: 8px solid #3c3b82;
     border-radius: 40px;
